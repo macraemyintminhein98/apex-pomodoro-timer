@@ -1,2 +1,3 @@
-# apex-pomodoro-timer
-Unlock deep focus with Apex Pomodoro, a dead-simple, mobile-first web widget. No distractions, no ac
+# Apex Pomodoro Timer
+
+A minimalist, mobile-first Pomodoro timer designed for distraction-free focus. Instant value, no accounts, local storage for a seamless experience. Buy once, use forever.
